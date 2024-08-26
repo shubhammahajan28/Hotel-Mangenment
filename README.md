@@ -1,4 +1,4 @@
-# Hotel-Mangenment
+# Hotel-Managenment
 Menu ={
     "Chicken Thali":150,
     "Butter Nan":20,
